@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+    <assemblyIdentity
+                            type="x64"
+                            name="dlls_x64"
+                            version="1.0.0.0"
+            />
+    <file name="FreeImage.dll"/>
+	<file name="glew32.dll"/>
+	<file name="SDL2.dll"/>
+	<file name="ucrtbased.dll"/>
+	<file name="SDL2_image.dll"/>
+	<file name="libjpeg-9.dll"/>
+	<file name="libpng16-16.dll"/>
+	<file name="libtiff-5.dll"/>
+	<file name="libwebp-7.dll"/>
+	<file name="zlib1.dll"/>
+</assembly>

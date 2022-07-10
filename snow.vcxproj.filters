@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="game.cpp" />
+    <ClCompile Include="surface.cpp">
+      <Filter>template code</Filter>
+    </ClCompile>
+    <ClCompile Include="template.cpp">
+      <Filter>template code</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="Tile.cpp">
+      <Filter>tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="TileFactory.cpp">
+      <Filter>tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>map</Filter>
+    </ClCompile>
+    <ClCompile Include="NormalMap.cpp">
+      <Filter>map</Filter>
+    </ClCompile>
+    <ClCompile Include="OffroadMap.cpp">
+      <Filter>map</Filter>
+    </ClCompile>
+    <ClCompile Include="BoxCollider.cpp" />
+    <ClCompile Include="Timer.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="game.h" />
+    <ClInclude Include="surface.h">
+      <Filter>template code</Filter>
+    </ClInclude>
+    <ClInclude Include="template.h">
+      <Filter>template code</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="Tile.h">
+      <Filter>tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="TileFactory.h">
+      <Filter>tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>map</Filter>
+    </ClInclude>
+    <ClInclude Include="NormalMap.h">
+      <Filter>map</Filter>
+    </ClInclude>
+    <ClInclude Include="OffroadMap.h">
+      <Filter>map</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="BoxCollider.h" />
+    <ClInclude Include="Timer.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="template code">
+      <UniqueIdentifier>{bf32dd6e-4be7-4889-8ac6-49e7ee163c40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tiles">
+      <UniqueIdentifier>{e8529b94-9922-4bad-9065-3989d7d89af0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="map">
+      <UniqueIdentifier>{c492300b-f947-4d4a-af79-30b2b854a37f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="_readme.txt">
+      <Filter>template code</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="snow.rc" />
+  </ItemGroup>
+</Project>

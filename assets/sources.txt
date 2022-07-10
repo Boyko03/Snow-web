@@ -1,0 +1,11 @@
+Sources:
+===================
+IceTileset.png 		- https://stealthix.itch.io/rpg-nature-tileset
+skier, scoreboard 	- http://floriangrosse.com/portfolio/dwarf-ski/
+trees			- https://opengameart.org/content/trees-mega-pack-cc-by-30-0
+shield			- https://www.svgrepo.com/svg/71862/shield
+wood-texture.jpg	- https://www.artstation.com/artwork/KANG
+
+btn-play.png		- https://fontawesome.com/icons/play?s=solid
+btn-restart.png		- https://fontawesome.com/icons/arrow-rotate-left?s=solid
+home-igloo.png		- https://fontawesome.com/icons/igloo?s=solid
